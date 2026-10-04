@@ -39,7 +39,6 @@ apis:
   - name: OpenAPIHub
     description: "The All-in-one API Platform"
     humanURL: https://hub.openapihub.com/
-    baseURL: https://hub.openapihub.com/
     tags:
       - Development
     properties:
